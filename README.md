@@ -3,11 +3,9 @@ Boot camp prework study guide
 
 ## Description
 
-I created this prework project to help prepare me for what I will be learning in class and practice the skills I have already. By creating this project it contains important notes I can refer back to. This project was built to help intoduce and practice the basics of of building a website (HTML, CSS, JavaScript, README, Git, and Deployment). This project has helped me create basic HTML and CSS files, solve JavaScript functions, and practice how to create branches to work on different features to avoide creating problems on the main until changes have been approved.
+I created this prework project to help prepare me for what I will be learning in class and practice the skills I have already. By creating this project it contains important notes I can refer back to. This project was built to help intoduce and practice the basics of building a website (HTML, CSS, JavaScript, README, Git, and Deployment). This project has helped me create basic HTML and CSS files, solve JavaScript functions, and practice how to create branches to work on different features to avoid creating problems on the main until changes have been approved.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
